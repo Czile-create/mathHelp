@@ -22,7 +22,9 @@ http.proxy=http://127.0.0.1:1080
 git clone https://github.com/Czile-create/mathHelp.git
 ```
 做完这一步之后环境就配置好了。
+
 5. 试一试查看效果，VSCODE 打开 `README.MD`，输入 ctrl + k, v，弹出效果查看栏。不出意外的话应该会看到这样的界面
+![](img/001.png)
 5. 试一试提交代码，在 `test.md` 里面试着输入一些信息，然后在命令行输入(备注信息不用写）：
 ```bash
 git add .                   // 所有修改都跟踪
